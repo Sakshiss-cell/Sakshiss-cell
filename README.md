@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Sakshi </h1>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%36BCF7FF&vCenter=true&lines=A+Passionate+Software+Engineer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%23FFA500&vCenter=true&lines=A+Passionate+Software+Engineer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+
 
 
 <h3>Profile Visits</h3>
