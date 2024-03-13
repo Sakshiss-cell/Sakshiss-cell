@@ -23,7 +23,7 @@
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruthu-rao-b28116212/" target="blank"><img align="center" src="https://img.shields.io/badge/Ruthu Rao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ruthu-rao-b28116212"  /></a>
+  <a href="https://www.linkedin.com/in/sakshi-gawande/" target="blank"><img align="center" src="https://img.shields.io/badge/Ruthu Rao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ruthu-rao-b28116212"  /></a>
   <a href="https://twitter.com/RuthuRao" target="blank"><img align="center" src="https://img.shields.io/badge/RuthuRao-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="RuthuRao"  /></a>
  
 </p>
