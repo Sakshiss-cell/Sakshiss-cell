@@ -32,8 +32,8 @@
 <h3 align="center">Coding Profiles:</h3>
 <p align="center">
 
-<a href="https://leetcode.com/route2/" target="blank"><img align="center" src="https://img.shields.io/badge/ruthurao-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="ruthurao"/></a>
-</p>
+<a href="https://www.hackerrank.com/profile/sakshi0402" target="_blank"><img align="center" src="https://img.shields.io/badge/Sakshi-000000?style=for-the-badge&logo=HackerRank&logoColor=#d16c06" alt="Sakshi"/></a>
+
 
 <h3 align="center">Languages and Tools:</h3>
 
