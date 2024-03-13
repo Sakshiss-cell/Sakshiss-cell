@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="#"><img width="50%" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JqajEzZ3Rjc2J3OGdyZnRmamlpbWRhaGdxNWJrcW96YmlqMXB3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif" height="175px"/></a></h1>
+<h1 align="center"> <a href="#"><img width="50%" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JqajEzZ3Rjc2J3OGdyZnRmamlpbWRhaGdxNWJrcW96YmlqMXB3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif" height="105px"/></a></h1>
 
 <h1 align="center">Hi 👋, I'm Sakshi </h1>
 
