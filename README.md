@@ -24,7 +24,10 @@
 <h3 align="center" > Connect with me: </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sakshi-gawande/" target="_blank"><img align="center" src="https://img.shields.io/badge/Sakshi Gawande-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sakshi Gawande LinkedIn Profile" /></a> 
+<a href="https://your-portfolio-url.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=appveyor" alt="Portfolio Badge" /></a>
+
 </p>
+
 
 <h3 align="center">Coding Profiles:</h3>
 <p align="center">
