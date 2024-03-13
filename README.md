@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="#"><img width="50%" height="auto" src="https://raw.githubusercontent.com/SakshiUppoor/SakshiUppoor/main/cat.gif" height="175px"/></a></h1>
+<h1 align="center"> <a href="#"><img width="50%" height="auto" src="https://giphy.com/gifs/CleverCodeLab-work-friday-internet-GQty4dYXeVkOeMzqVx" height="175px"/></a></h1>
 
 <h1 align="center">Hi 👋, I'm Sakshi </h1>
 
