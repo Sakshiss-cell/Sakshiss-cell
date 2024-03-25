@@ -14,7 +14,7 @@
 |  Projects|
 
 
-- 🌱 I’m currently learning **Nodejs and Nextjs**
+- 🌱 I’m currently learning **Docker & NextAuth**
 
 - 💬 Ask me about **Frontend, Java and Web-Dev**
 
